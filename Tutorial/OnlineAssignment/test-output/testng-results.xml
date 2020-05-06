@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73531" started-at="2020-05-07T00:42:07 IST" finished-at="2020-05-07T00:43:21 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73531" started-at="2020-05-07T00:42:07 IST" finished-at="2020-05-07T00:43:21 IST">
+      <class name="addToCartTest.VerifyPriceAfterpurchase">
+        <test-method status="PASS" signature="configureBC()[pri:0, instance:addToCartTest.VerifyPriceAfterpurchase@5a8806ef]" name="configureBC" is-config="true" duration-ms="15634" started-at="2020-05-07T00:42:07 IST" finished-at="2020-05-07T00:42:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBC -->
+        <test-method status="PASS" signature="configureBM()[pri:0, instance:addToCartTest.VerifyPriceAfterpurchase@5a8806ef]" name="configureBM" is-config="true" duration-ms="9347" started-at="2020-05-07T00:42:23 IST" finished-at="2020-05-07T00:42:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBM -->
+        <test-method status="PASS" signature="verifyPrice()[pri:0, instance:addToCartTest.VerifyPriceAfterpurchase@5a8806ef]" name="verifyPrice" duration-ms="44677" started-at="2020-05-07T00:42:32 IST" finished-at="2020-05-07T00:43:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPrice -->
+        <test-method status="PASS" signature="configureAM()[pri:0, instance:addToCartTest.VerifyPriceAfterpurchase@5a8806ef]" name="configureAM" is-config="true" duration-ms="3097" started-at="2020-05-07T00:43:17 IST" finished-at="2020-05-07T00:43:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAM -->
+        <test-method status="PASS" signature="configureAC()[pri:0, instance:addToCartTest.VerifyPriceAfterpurchase@5a8806ef]" name="configureAC" is-config="true" duration-ms="615" started-at="2020-05-07T00:43:20 IST" finished-at="2020-05-07T00:43:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAC -->
+      </class> <!-- addToCartTest.VerifyPriceAfterpurchase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
